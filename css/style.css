@@ -1,0 +1,64 @@
+/*  index  */
+
+.navbar.navbar-light .breadcrumb .nav-item .nav-link,
+.navbar.navbar-light .navbar-nav .nav-item .nav-link {
+    color: white;
+}
+
+.carusel-discrip {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+footer.page-footer {
+    margin-top: 0px;
+}
+
+.carousel-item {
+    max-height: 750px;
+}
+
+
+/*  Tables  */
+
+.table {
+    margin-top: 5rem;
+}
+
+
+/*  Teams  */
+
+.teams {
+    background-image: url(../img/green.jpg);
+    margin-top: 5rem;
+}
+
+
+/*  News  */
+
+.news {
+    margin-top: 3rem;
+}
+.new1 {
+    max-width: 100rem;
+}
+.img-fit {
+    width: fit-content;
+}
+
+/*  Date  */
+
+.datepicker-here {
+    display: inline-block;
+    margin: 4.5rem;
+}
+
+.dateHead {
+    margin-top: 6rem;
+    padding-left: 2rem;
+}
+
+.game {
+    display: inline-block;
+    border: 1px solid rgb(199, 50, 50);
+}
