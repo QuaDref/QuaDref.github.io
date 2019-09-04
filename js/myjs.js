@@ -34,7 +34,7 @@ day.onclick = function(event) {
   console.log(document.getElementById("date").children);
 
   const date9 = `<strong>9 ${week()} 2019</strong> <h4>Программная инженерия</h4> <p>Подготовить презентации студентам:</p> 
-  <p>-Севастьянов/Тупиков</p> <p>-Танишева</p> <p><a href="file/topics.pdf" target="_blank">Открыть список</a> 
+  <p>-Куринной/Тупиков</p> <p>-Танишева</p> <p><a href="file/topics.pdf" target="_blank">Открыть список</a> 
   <p><a href="file/A Student Guide to Object-Oriented Development.pdf" target="_blank">Открыть книгу</a>`;
   const date10 = `<strong>10 ${week()} 2019</strong> <h4>Вычислительные системы, сети и телекоммуникации</h4> <p>Сделать отчет по 1 лабораторной работе</p>
   <p><a href="file/VSST_Lab_work_1.pdf" target="_blank">Открыть 1 лабораторную работу</a> <h4>Программирование и поддержка веб. приложений</h4> <p>Выполнить первые 4 лаб. работы</p> 
