@@ -45,7 +45,7 @@ day.onclick = function(event) {
   <p><a href="https://matlab.ru/education/student-trial" target="_blank">Инструкция по установки программы MatLab</a> 
   <h4>Теория программирования</h4> <p>Выполнить лаб. работу</p> 
   <p><a href="file/TP/TP_Lab_work_1.pdf" target="_blank">Лаб. работа №1</a>
-  <p><a href="file/TP/!Правила оформления отчетов по лабораторным работам.pdf" target="_blank">Правила оформления</a>
+  <p><a href="file/TP/off.pdf" target="_blank">Правила оформления</a>
   <p><a href="file/TP/Post.exe" target="_blank">Пограмма для скачивания</a>`;
 
   switch (d) {
